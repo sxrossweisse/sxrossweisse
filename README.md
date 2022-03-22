@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+:laughing: Hello~  I'm sue~ ヾ(@^▽^@)ノ
+
+Java学徒
+
+喜欢历史，音乐，游戏。
+
+关于为什么我从18年开始做研发而22年才开始慢慢使用GitHub这件事儿hhhhhhhhhhhhhhhhh
+
+虽然用的比较晚，但是希望代码越写越棒吧 :bowtie:
 <!--
 **sxrossweisse/sxrossweisse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
