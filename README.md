@@ -12,12 +12,13 @@ Java学徒，小菜鸟
 
 但是
 
-希望代码越写越棒吧 :bowtie:
-希望思路越来越广阔 :bowtie:
+希望代码越写越棒吧 :star2:
+
+希望思路越来越广阔 :star2:
 
 努力学习 :punch:
 
-向大厂冲锋 :punch:
+向大厂冲锋 :boom:
 
 目标是成为一名优秀的Java架构师 :smiling_imp:
 
