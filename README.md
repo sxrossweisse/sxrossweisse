@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-:laughing: Hello~  I'm sue~ ヾ(@^▽^@)ノ
+:laughing: Hello~  I'm rossweisse~ ヾ(@^▽^@)ノ
 
 Java学徒，小菜鸟
 
